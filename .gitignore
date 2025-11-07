@@ -1,0 +1,13 @@
+# Ignorar entorno virtual
+venv/
+*.sqlite3
+
+# Archivos de caché
+__pycache__/
+*.pyc
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos de la sesión de Django
+/weather_api/settings/local.py
