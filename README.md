@@ -4,7 +4,7 @@ Este proyecto implementa una API RESTful simple utilizando **Django** y **Django
 
 ---
 
-## 🛠️ Requisitos e Instalación
+## Requisitos e Instalación
 
 ### 1. Clonar el Repositorio
 
