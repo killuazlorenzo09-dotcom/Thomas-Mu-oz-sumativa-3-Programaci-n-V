@@ -24,7 +24,7 @@ Este paso es obligatorio para obtener el Token de acceso que permite las operaci
     json
     {
         "username": "personal",
-        "password": "mi_contraseña"
+        "password": "personal1234"
     }
   
 **Respuesta esperada:** {"token": "..."}
