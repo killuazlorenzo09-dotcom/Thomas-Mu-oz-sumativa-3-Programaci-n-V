@@ -9,5 +9,5 @@ Este proyecto implementa una API RESTful simple utilizando **Django** y **Django
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone [https://github.com/killuazorenzo09-dotcom/Thomas-Mu-oz-sumativa-III-Programaci-n-V.git](https://github.com/killuazorenzo09-dotcom/Thomas-Mu-oz-sumativa-III-Programaci-n-V.git)
-cd Thomas-Mu-oz-sumativa-III-Programaci-n-V
+git clone [https://github.com/killuazorenzo09-dotcom/Thomas-Mu-oz-sumativa-3-Programaci-n-V.git](https://github.com/killuazorenzo09-dotcom/Thomas-Mu-oz-sumativa-3-Programaci-n-V.git)
+cd Thomas-Mu-oz-sumativa-3-Programaci-n-V
